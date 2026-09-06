@@ -27,7 +27,7 @@ FDTD-RF-Simulator/
 
 Installation & Usage
 Clone the repository:
-git clone https://github.com/YourUsername/FDTD-RF-Simulator.git
+git clone https://github.com/avivmostytskyywork/FDTD-RF-Simulator.git
 cd FDTD-RF-Simulator
 
 Install dependencies:
